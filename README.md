@@ -24,3 +24,7 @@ Register User desde POSTMAN
 Login User desde POSTMAN
 
 [![login-Postman.png](https://i.postimg.cc/fRYtWzh7/login-Postman.png)](https://postimg.cc/hXPPpqvh)
+
+ENCODED / DECODED JWT
+
+[![ENCODED-DECODED.png](https://i.postimg.cc/439gRykZ/ENCODED-DECODED.png)](https://postimg.cc/HJdKQpkP)
