@@ -15,3 +15,6 @@ La manera de funcionar de express es la siguiente: cada vez que llega una solici
 
 Páginas para ver: https://blog.openreplay.com/jwt-authentication-best-practices/ https://jwt.io/ https://www.notion.so/larnu/Autentificaci-n-con-express-299a72dafd994081b013c42d47a01a9b https://www.npmjs.com/package/bcryptjs
 
+Register User desde POSTMAN
+
+[![register.png](https://i.postimg.cc/FFw2bm2J/register.png)](https://postimg.cc/MXbPqkZW)
