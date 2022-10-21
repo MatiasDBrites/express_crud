@@ -20,3 +20,7 @@ Register User desde POSTMAN
 [![register.png](https://i.postimg.cc/FFw2bm2J/register.png)](https://postimg.cc/MXbPqkZW)
 
 ![image](https://user-images.githubusercontent.com/104856701/197295235-00f0fb50-db32-4002-828e-9514c7ee2f0f.png)
+
+Login User desde POSTMAN
+
+[![login-Postman.png](https://i.postimg.cc/fRYtWzh7/login-Postman.png)](https://postimg.cc/hXPPpqvh)
